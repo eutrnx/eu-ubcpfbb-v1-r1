@@ -11,9 +11,8 @@ Main asslciking here
 // This is colored text pussy
 #include "ztu/t1.h"
 
-// Asks favnum and printsit 
+// Asks favnum and printsit
 #include "ztu/favnum.h"
-
 
 // Standar Library Calls
 // #include <iostream>
@@ -32,6 +31,4 @@ int main() {
 
   // favnum.h
   favNum();
-
-  
 }
