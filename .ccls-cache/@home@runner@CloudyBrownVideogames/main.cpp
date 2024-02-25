@@ -1,22 +1,16 @@
 /*
 Main asslciking here
 - Write eathershit
+- Make all functions in seperate files with extension .h and then call here
 */
 
+#include "ztu/t1.h"
 #include <iostream>
-
-// Printing colored text here
 
 int main() {
   std::cout << "Hello World!\n";
   std::cout << "eatHerShit";
-  std::cout << "\033[31mThis text is red.\033[0m\n";
-  std::cout << "\033[32mThis text is green.\033[0m\n";
-}
 
-// Color text here
-
-void Pussy() {
-  std::cout << "\033[31mThis text is red.\033[0m\n";
-  std::cout << "\033[32mThis text is green.\033[0m\n";
+  // Call pussy function here
+  Pussy();
 }
