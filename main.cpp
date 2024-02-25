@@ -6,29 +6,20 @@ Main asslciking here
 - Add anoteh
 */
 
-// Including external files
-
-// This is colored text pussy
-#include "ztu/t1.h"
-
-// Asks favnum and printsit
-#include "ztu/favnum.h"
-
-// Standar Library Calls
-// #include <iostream>
-
-// int main() {
-//   std::cout << "Hello World!\n";
-//   std::cout << "eatHrSht\n";
-// }
+#include "tezt/bn.h"
+#include <iostream>
 
 using namespace std;
 
 int main() {
 
-  // t1.h - color text printing
-  Pussy();
+  // Banner Pussy
+  eatPusi();
+  
+  std::cout << "\x1b[35;1mFuck\x1b[35;1m" << std::endl;
 
-  // favnum.h
-  favNum();
+  // Multiple Lines printing
+  std::cout << R"(This is the first line.
+  This is the second line.
+  This is the third line.)";
 }
