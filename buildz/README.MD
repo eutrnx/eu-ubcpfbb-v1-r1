@@ -10,3 +10,8 @@
 ```sh 
 g++ -wall <nameofpussy.app> -o <exepanty>
 ```
+# FilePussy 
+
+Fuckz | cppstink | SuckHerShit
+:--: | :--: |:--:
+`m1` | m1.cpp | Prints colored text and asks for input
