@@ -23,6 +23,8 @@ Main asslciking here
 using namespace std;
 
 int main() {
-  cout << "Hello World!" << endl;
+  // This will just print on screen message
+  std::cout << "Hello World!" << std::endl;
+  std::cout << "Sucking and fucking" << std::endl;
   return 0;
 }
