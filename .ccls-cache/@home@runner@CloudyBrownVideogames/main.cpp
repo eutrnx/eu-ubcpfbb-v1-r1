@@ -5,8 +5,8 @@ Main asslciking here
 */
 
 // Including external files
-#include "ztu/t1.h"
-#include "ztu/t2.h"
+// #include "ztu/t1.h"
+// #include "ztu/t2.h"
 
 // Standar Library Calls
 #include <iostream>
@@ -14,10 +14,4 @@ Main asslciking here
 int main() {
   std::cout << "Hello World!\n";
   std::cout << "eatHerShit";
-
-  // Call pussy function here
-  Pussy();
-
-  // Calling ztu/t2.h
-  eatPoo();
 }
