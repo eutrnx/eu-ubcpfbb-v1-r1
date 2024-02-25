@@ -13,5 +13,5 @@ Main asslciking here
 
 int main() {
   std::cout << "Hello World!\n";
-  std::cout << "eatHerShit";
+  std::cout << "eatHrSht\n";
 }
