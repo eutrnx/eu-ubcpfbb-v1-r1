@@ -2,6 +2,7 @@
 Main asslciking here
 - Write eathershit
 - Make all functions in seperate files with extension .h and then call here
+- Important to have \n, or it  new line wont print
 */
 
 // Including external files
