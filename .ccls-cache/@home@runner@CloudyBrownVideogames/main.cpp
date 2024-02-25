@@ -7,8 +7,13 @@ Main asslciking here
 */
 
 // Including external files
-// #include "ztu/t1.h"
-// #include "ztu/t2.h"
+
+// This is colored text pussy
+#include "ztu/t1.h"
+
+// Asks favnum and printsit 
+#include "ztu/favnum.h"
+
 
 // Standar Library Calls
 // #include <iostream>
@@ -18,13 +23,15 @@ Main asslciking here
 //   std::cout << "eatHrSht\n";
 // }
 
-#include <iostream>
-
 using namespace std;
 
 int main() {
-  // This will just print on screen message
-  std::cout << "Hello World!" << std::endl;
-  std::cout << "Sucking and fucking" << std::endl;
-  return 0;
+
+  // t1.h - color text printing
+  Pussy();
+
+  // favnum.h
+  favNum();
+
+  
 }
