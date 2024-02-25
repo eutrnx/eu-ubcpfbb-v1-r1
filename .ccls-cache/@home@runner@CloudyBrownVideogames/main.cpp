@@ -1,11 +1,15 @@
 /*
-This basic file was made by the user:, when learning , drink much woman piss,
-then make necessary files
-- Keep this file and not do anything in it
-- Main work will be in subsequent cpp files, these not allowing to delte
-assandpussy
+Main asslciking here
+- Write eathershit
 */
 
 #include <iostream>
 
-int main() { std::cout << "Hello World!\n"; }
+// Printing colored text here
+
+int main() {
+  std::cout << "Hello World!\n";
+  std::cout << "eatHerShit";
+  std::cout << "\033[31mThis text is red.\033[0m\n";
+  std::cout << "\033[32mThis text is green.\033[0m\n";
+}
